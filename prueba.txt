@@ -1,7 +1,13 @@
 <<<<<<< HEAD
 este texto fue creado desde la rama miPrimeraRama
+<<<<<<< HEAD
+
+
+hola soy un segundo txt
+=======
 Soy Juli Vignoli
 
+>>>>>>> e14e05e90c8e8cd9ec1e8545b6c042bf963a253c
 =======
 
 este texto fue creado desde la rama miPrimeraRama
@@ -20,6 +26,9 @@ Este archivo fue editado :)
 sajifdja
 =======
 
+<<<<<<< HEAD
+
+=======
 >>>>>>> d34383c6ce44d80df45f97e8526817f0ac3d7be2
 <<<<<<< HEAD
 
@@ -27,8 +36,12 @@ sajifdja
 svedfjhgsdhjffdsad cambioss
 =======
 >>>>>>> 7eb45c19b19668e8ba7e85f9833a8be08c68278b
+<<<<<<< HEAD
 >>>>>>> 3afcd6bc036d5dfaea42659a4a760b122bfcc08b
 
 
 
 mas cambiosssssssss
+=======
+>>>>>>> e14e05e90c8e8cd9ec1e8545b6c042bf963a253c
+>>>>>>> 758397598069b5056a2d0bcf58316d74e783bd86
