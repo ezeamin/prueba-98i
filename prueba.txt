@@ -1,8 +1,15 @@
 
 este texto fue creado desde la rama miPrimeraRama
 
+<<<<<<< HEAD
+hola gente todo de chill?
+
+este texto fue creado desde la rama miPrimeraRama.
+Este archivo fue editado :)
+=======
 chipi chipi chapa chapa chipi chipi chapa chapa 
 
 este texto fue creado desde la rama miPrimeraRama.
 Este archivo fue editado :)
 
+>>>>>>> d34383c6ce44d80df45f97e8526817f0ac3d7be2
