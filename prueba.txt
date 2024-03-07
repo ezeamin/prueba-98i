@@ -1,3 +1,4 @@
+
 este texto fue creado desde la rama miPrimeraRama
 
 ░░░░░▄█▀█▄░░░░░░░░░░░░░░░
@@ -16,3 +17,7 @@ este texto fue creado desde la rama miPrimeraRama
 ░░▄███▄████░████▄███▄░░░░░
 ░░███▀███████████▀███░░░░░
 ░░░░▀▀▀██▄▄▄▄▄██▀▀▀░░░░
+=======
+este texto fue creado desde la rama miPrimeraRama.
+Este archivo fue editado :)
+
